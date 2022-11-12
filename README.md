@@ -1,6 +1,6 @@
-Subscriber Churn Analytics Demo with dbt Snowpark Python models
+# Subscriber Churn Analytics Demo with dbt Snowpark Python models
 
-(This code is still experimental.)
+Disclaimer: This code is experimental.
  
  PPT: https://docs.google.com/presentation/d/1IJSeE96bze7DECuDYqsTVv6FaOcNcJ5tTiCWKEku_QQ/edit#slide=id.g158d486fe9e_2_12
 
