@@ -28,7 +28,7 @@ GRANT ALL ON WAREHOUSE dbt_wh TO ROLE dbt_role;
 GRANT USAGE ON WAREHOUSE dbt_high_mem_wh to ROLE DBT_ROLE;
 
   
- //Create event table for logging
+ //Create event table for logging - Private Preview feature needs to be enabled as of Nov 2022
   
 create event table CHURN_DEMO.CHURN_DEMO.DBT_DEMO_EVENTS;
 alter account set event_table = CHURN_DEMO.CHURN_DEMO.DBT_DEMO_EVENTS;
